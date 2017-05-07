@@ -1,0 +1,19 @@
+{
+  "name": "patient-portal-web-server",
+  "version": "1.0.0",
+  "description": "Web server for patient portal application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedoherty/PatientPortal.git"
+  },
+  "author": "Brian Doherty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bedoherty/PatientPortal/issues"
+  },
+  "homepage": "https://github.com/bedoherty/PatientPortal#readme"
+}
